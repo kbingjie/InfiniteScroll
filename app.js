@@ -3,7 +3,7 @@ const loading = document.querySelector(".loader");
 const filter = document.getElementById("filter");
 
 
-let limit = 5;
+let limit = 6;
 let page = 1;
 
 //Get posts from api
